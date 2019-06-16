@@ -1,0 +1,17 @@
+---
+title: "PA1_template"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Loading the data
+
+```{r cars}
+read.csv("activity.csv")
+```
+
+
